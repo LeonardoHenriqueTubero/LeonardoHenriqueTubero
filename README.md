@@ -55,12 +55,6 @@ Desenvolvi de forma autoral o **ConstruIdeias**, uma aplicação web full stack 
 
 ---
 
-### 📊 Linguagens mais usadas
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoHenriqueTubero&layout=compact&theme=default&hide_border=true)
-
----
-
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-henrique-pereira-tubero-341658232/)
