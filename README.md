@@ -61,7 +61,7 @@
   <img src="assets/Projetos.png" alt="Projetos" width="158" height="48">
 </p>
 
-#### [ConstruIdeias](https://github.com/LeonardoHenriqueTubero)
+#### [ConstruIdeias](https://github.com/LeonardoHenriqueTubero/siteTCC)
 
 Plataforma web que conecta clientes a profissionais da construção civil. Trabalho de Conclusão de Curso da Etec, desenvolvido de forma autoral — do levantamento de requisitos à implementação.
 
