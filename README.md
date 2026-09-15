@@ -70,13 +70,7 @@ Plataforma web que conecta clientes a profissionais da construção civil. Traba
 - 11 páginas em PHP
 - Interface responsiva com Bootstrap 5
 
-<img src="assets/PHP.png" alt="PHP" title="PHP" width="32" height="32">
-<img src="assets/MySQL.png" alt="MySQL/MariaDB" title="MySQL/MariaDB" width="32" height="32">
-<img src="assets/HTML5.png" alt="HTML5" title="HTML5" width="32" height="32">
-<img src="assets/CSS3.png" alt="CSS3" title="CSS3" width="32" height="32">
-<img src="assets/JavaScript.png" alt="JavaScript" title="JavaScript" width="32" height="32">
-<img src="assets/Bootstrap.png" alt="Bootstrap 5" title="Bootstrap 5" width="32" height="32">
-<img src="assets/Git.png" alt="Git" title="Git" width="32" height="32">
+<p><img src="assets/PHP.png" alt="PHP" title="PHP" width="32" height="32">&nbsp;<img src="assets/MySQL.png" alt="MySQL/MariaDB" title="MySQL/MariaDB" width="32" height="32">&nbsp;<img src="assets/HTML5.png" alt="HTML5" title="HTML5" width="32" height="32">&nbsp;<img src="assets/CSS3.png" alt="CSS3" title="CSS3" width="32" height="32">&nbsp;<img src="assets/JavaScript.png" alt="JavaScript" title="JavaScript" width="32" height="32">&nbsp;<img src="assets/Bootstrap.png" alt="Bootstrap 5" title="Bootstrap 5" width="32" height="32">&nbsp;<img src="assets/Git.png" alt="Git" title="Git" width="32" height="32"></p>
 
 <div align="center">
 <img src="assets/Divisoria.png" alt="" width="800">
