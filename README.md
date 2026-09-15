@@ -1,61 +1,98 @@
-# Olá, eu sou o Leonardo 👋
+<div align="center">
+
+<img src="assets/Eu-sou-Leo.gif" alt="Olá, eu sou o Leonardo!" width="800">
 
 **Desenvolvedor Back-end Júnior — Java | Spring Boot**
 
-Estudante de Análise e Desenvolvimento de Sistemas (FEMA, conclusão em 2026), com formação direcionada a Java e Spring Boot. Tenho interesse por escrever código simples, organizado e fácil de manter, e facilidade de aprendizado de novas tecnologias.
+<img src="assets/Divisoria.png" alt="" width="800">
 
----
+</div>
 
-### 🏆 Destaque
+<p align="center">
+  <img src="assets/Sobre-mim.png" alt="Sobre mim" width="180" height="48">
+</p>
 
-Desenvolvi de forma autoral o **ConstruIdeias**, uma aplicação web full stack — do levantamento de requisitos à implementação — eleita o **melhor TCC da turma de Informática da Etec**. O projeto cobre modelagem de banco relacional, autenticação, controle de sessão e interface responsiva.
+- Estudante de **Análise e Desenvolvimento de Sistemas** na FEMA (conclusão em 2026)
+- Foco em **back-end com Java e Spring Boot**
+- Gosto de escrever código **simples, organizado e fácil de manter**
+- Autor do **ConstruIdeias**, eleito o **melhor TCC da turma de Informática da Etec**
 
----
+<div align="center">
+<img src="assets/Divisoria.png" alt="" width="800">
 
-### 🛠️ Tecnologias
+<img src="assets/Tecnologias.png" alt="Tecnologias" width="208" height="48">
+<br><br>
 
-**Linguagens**
+<sub><b>LINGUAGENS</b></sub>
+<br><br>
+<img src="assets/Java.png" alt="Java" title="Java" width="64" height="64">&emsp;
+<img src="assets/PHP.png" alt="PHP" title="PHP" width="64" height="64">&emsp;
+<img src="assets/JavaScript.png" alt="JavaScript" title="JavaScript" width="64" height="64">
+<br><br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<sub><b>BACK-END</b></sub>
+<br><br>
+<img src="assets/Spring.png" alt="Spring Boot" title="Spring Boot" width="64" height="64">
+<br><br>
 
-**Back-end**
+<sub><b>FRONT-END</b></sub>
+<br><br>
+<img src="assets/HTML5.png" alt="HTML5" title="HTML5" width="64" height="64">&emsp;
+<img src="assets/CSS3.png" alt="CSS3" title="CSS3" width="64" height="64">&emsp;
+<img src="assets/Bootstrap.png" alt="Bootstrap 5" title="Bootstrap 5" width="64" height="64">&emsp;
+<img src="assets/Angular.png" alt="Angular" title="Angular" width="64" height="64">
+<br><br>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+<sub><b>BANCO DE DADOS</b></sub>
+<br><br>
+<img src="assets/MySQL.png" alt="MySQL/MariaDB" title="MySQL/MariaDB" width="64" height="64">&emsp;
+<img src="assets/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL" width="64" height="64">
+<br><br>
 
-**Front-end**
+<sub><b>FERRAMENTAS</b></sub>
+<br><br>
+<img src="assets/Git.png" alt="Git" title="Git" width="64" height="64">&emsp;
+<img src="assets/Postman.png" alt="Postman" title="Postman" width="64" height="64">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+<img src="assets/Divisoria.png" alt="" width="800">
+</div>
 
-**Banco de dados**
+<p align="center">
+  <img src="assets/Projetos.png" alt="Projetos" width="158" height="48">
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL%2FMariaDB-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+#### [ConstruIdeias](https://github.com/LeonardoHenriqueTubero)
 
-**Ferramentas**
+Plataforma web que conecta clientes a profissionais da construção civil. Trabalho de Conclusão de Curso da Etec, desenvolvido de forma autoral — do levantamento de requisitos à implementação.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- Sistema de autenticação completo e controle de sessão
+- Banco relacional versionado em SQL
+- 11 páginas em PHP
+- Interface responsiva com Bootstrap 5
 
----
+<img src="assets/PHP.png" alt="PHP" title="PHP" width="32" height="32">
+<img src="assets/MySQL.png" alt="MySQL/MariaDB" title="MySQL/MariaDB" width="32" height="32">
+<img src="assets/HTML5.png" alt="HTML5" title="HTML5" width="32" height="32">
+<img src="assets/CSS3.png" alt="CSS3" title="CSS3" width="32" height="32">
+<img src="assets/JavaScript.png" alt="JavaScript" title="JavaScript" width="32" height="32">
+<img src="assets/Bootstrap.png" alt="Bootstrap 5" title="Bootstrap 5" width="32" height="32">
+<img src="assets/Git.png" alt="Git" title="Git" width="32" height="32">
 
-### 📌 Projetos em destaque
+<div align="center">
+<img src="assets/Divisoria.png" alt="" width="800">
 
-**[ConstruIdeias](https://github.com/LeonardoHenriqueTubero)** — Plataforma web para conectar clientes a profissionais da construção civil. Trabalho de Conclusão de Curso, com sistema de autenticação completo, banco relacional versionado em SQL, 11 páginas em PHP e interface responsiva construída com Bootstrap 5.
-`PHP` `MySQL/MariaDB` `HTML5` `CSS3` `JavaScript` `Bootstrap 5` `Git`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoHenriqueTubero/LeonardoHenriqueTubero/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonardoHenriqueTubero/LeonardoHenriqueTubero/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/LeonardoHenriqueTubero/LeonardoHenriqueTubero/output/github-snake.svg" alt="Cobrinha comendo o gráfico de contribuições">
+</picture>
 
----
+<img src="assets/Divisoria.png" alt="" width="800">
 
-### 📫 Contato
+<img src="assets/Contato.png" alt="Contato" width="142" height="48">
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-henrique-pereira-tubero-341658232/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardohenriquetubero@gmail.com)
+<a href="https://www.linkedin.com/in/leonardo-henrique-pereira-tubero-341658232/"><img src="assets/LinkedIn.png" alt="LinkedIn" title="LinkedIn" width="64" height="64"></a>&emsp;
+<a href="mailto:leonardohenriquetubero@gmail.com"><img src="assets/Gmail.png" alt="Gmail" title="Gmail" width="64" height="64"></a>
+
+</div>
