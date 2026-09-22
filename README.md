@@ -1,26 +1,27 @@
 <div align="center">
 
-<img src="assets/Eu-sou-Leo.gif" alt="Olá, eu sou o Leonardo!" width="800">
+<img src="assets/BemVindo.png" alt="Bem-vindo" width="384" height="64">
+
+### Olá, eu sou o Leonardo Henrique Tubero
 
 **Desenvolvedor Back-end Júnior — Java | Spring Boot**
 
-<img src="assets/Divisoria.png" alt="" width="800">
+<img src="assets/Divisoria.png" alt="" width="800" height="16">
 
 </div>
 
 <p align="center">
-  <img src="assets/Sobre-mim.png" alt="Sobre mim" width="180" height="48">
+  <img src="assets/SobreMim.png" alt="Sobre mim" width="285" height="48">
 </p>
 
 - Estudante de **Análise e Desenvolvimento de Sistemas** na FEMA (conclusão em 2026)
 - Foco em **back-end com Java e Spring Boot**
 - Gosto de escrever código **simples, organizado e fácil de manter**
-- Autor do **ConstruIdeias**, eleito o **melhor TCC da turma de Informática da Etec**
 
 <div align="center">
-<img src="assets/Divisoria.png" alt="" width="800">
+<img src="assets/Divisoria.png" alt="" width="800" height="16">
 
-<img src="assets/Tecnologias.png" alt="Tecnologias" width="208" height="48">
+<img src="assets/Tecnologias.png" alt="Tecnologias" width="343" height="48">
 <br><br>
 
 <sub><b>LINGUAGENS</b></sub>
@@ -54,11 +55,11 @@
 <img src="assets/Git.png" alt="Git" title="Git" width="64" height="64">&emsp;
 <img src="assets/Postman.png" alt="Postman" title="Postman" width="64" height="64">
 
-<img src="assets/Divisoria.png" alt="" width="800">
+<img src="assets/Divisoria.png" alt="" width="800" height="16">
 </div>
 
 <p align="center">
-  <img src="assets/Projetos.png" alt="Projetos" width="158" height="48">
+  <img src="assets/Projetos.png" alt="Projetos" width="266" height="48">
 </p>
 
 #### [ConstruIdeias](https://github.com/LeonardoHenriqueTubero/siteTCC)
@@ -73,7 +74,7 @@ Plataforma web que conecta clientes a profissionais da construção civil. Traba
 <p><img src="assets/PHP.png" alt="PHP" title="PHP" width="32" height="32">&nbsp;<img src="assets/MySQL.png" alt="MySQL/MariaDB" title="MySQL/MariaDB" width="32" height="32">&nbsp;<img src="assets/HTML5.png" alt="HTML5" title="HTML5" width="32" height="32">&nbsp;<img src="assets/CSS3.png" alt="CSS3" title="CSS3" width="32" height="32">&nbsp;<img src="assets/JavaScript.png" alt="JavaScript" title="JavaScript" width="32" height="32">&nbsp;<img src="assets/Bootstrap.png" alt="Bootstrap 5" title="Bootstrap 5" width="32" height="32">&nbsp;<img src="assets/Git.png" alt="Git" title="Git" width="32" height="32"></p>
 
 <div align="center">
-<img src="assets/Divisoria.png" alt="" width="800">
+<img src="assets/Divisoria.png" alt="" width="800" height="16">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoHenriqueTubero/LeonardoHenriqueTubero/output/github-snake-dark.svg">
@@ -81,9 +82,9 @@ Plataforma web que conecta clientes a profissionais da construção civil. Traba
   <img src="https://raw.githubusercontent.com/LeonardoHenriqueTubero/LeonardoHenriqueTubero/output/github-snake.svg" alt="Cobrinha comendo o gráfico de contribuições">
 </picture>
 
-<img src="assets/Divisoria.png" alt="" width="800">
+<img src="assets/Divisoria.png" alt="" width="800" height="16">
 
-<img src="assets/Contato.png" alt="Contato" width="142" height="48">
+<img src="assets/Contato.png" alt="Contato" width="235" height="48">
 <br><br>
 
 <a href="https://www.linkedin.com/in/leonardo-henrique-pereira-tubero-341658232/"><img src="assets/LinkedIn.png" alt="LinkedIn" title="LinkedIn" width="64" height="64"></a>&emsp;
